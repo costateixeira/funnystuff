@@ -49,7 +49,7 @@
       <page>
         <nameUrl value="index.html"/>
         <title value="MyIG Home Page"/>
-        <generation value="html"/>
+        <generation value="markdown"/>
       </page>
       <page>
         <nameUrl value="downloads.html"/>
